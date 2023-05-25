@@ -1,0 +1,61 @@
+Fonctionnalité d'un blog:
+
+Front office:
+
+home : afficher les articles récentes
+
+naviger par catégories, par dates, par tags
+ 
+Rechercher des articles avec des criteres.
+
+Abonnement newsletter
+
+proposer un flux rss
+
+Partager un article sur RS
+
+Afficher des publicités
+top
+
+Inscription utilisateur + login+logout
+
+Utilisateur connecter:
+Liker un article
+commenter/modifier/supprimer un article
+proposer un article.
+
+Nombre de vues d'un article
+date de publication
+Nom de l'auteur
+temps de lecture
+Image
+texte
+titre
+
+Back office:
+
+CRUD articles
+CRUD categories
+CRUD tags
+RD(read et delete) :  modération des commentaire
+Dashboard(tableau de bord).
+
+Gestion des users : 
+
+CRUD (update au moins pour les droits).
+paramétre du site (infos diverses)
+
+
+
+
+Entités:
+
+
+Article
+user
+catégories
+tags
+newsletter(abonnement)
+Like???
+commentaire
+Paramsite
